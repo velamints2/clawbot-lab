@@ -1,0 +1,38 @@
+{
+  "name": "clawbot-content-generator",
+  "version": "1.0.0",
+  "description": "🤖 ClawBot 小红书内容生成器 - 基于 20 轮调研的 AI 嘴替内容工具",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node examples/basic-usage.js",
+    "demo": "node examples/demo.js"
+  },
+  "keywords": [
+    "clawbot",
+    "openclaw",
+    "skill",
+    "content-generator",
+    "xiaohongshu",
+    "ai"
+  ],
+  "author": "ClawBot Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/velamints2/xhs-ai-research.git",
+    "directory": "skills/clawbot-content-generator"
+  },
+  "bugs": {
+    "url": "https://github.com/velamints2/xhs-ai-research/issues"
+  },
+  "homepage": "https://github.com/velamints2/xhs-ai-research#readme",
+  "files": [
+    "src/",
+    "data/",
+    "SKILL.md",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

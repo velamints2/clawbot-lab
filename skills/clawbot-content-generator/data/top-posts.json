@@ -1,0 +1,166 @@
+{
+  "posts": [
+    {
+      "rank": 1,
+      "title": "让我非常震撼的 OpenClaw 玩法",
+      "author": "小盖",
+      "likes": 12000,
+      "type": "玩法分享",
+      "formula": "情绪词 + 具体数字"
+    },
+    {
+      "rank": 2,
+      "title": "如何用 1R 赚到 10000R❓手把手教你",
+      "author": "王三水的赚钱日记",
+      "likes": 14000,
+      "type": "赚钱教程",
+      "formula": "极低门槛 + 高回报"
+    },
+    {
+      "rank": 3,
+      "title": "搞钱攻略！17 岁给推文 AI 算命 24 小时赚 22 万",
+      "author": "CEO 星球",
+      "likes": 5662,
+      "type": "新奇项目",
+      "formula": "时间对比 + 夸张收益"
+    },
+    {
+      "rank": 4,
+      "title": "OpenClaw 很好，但 Claude Code 也能干它的事",
+      "author": "aopstudio",
+      "likes": 3039,
+      "type": "对比/争议",
+      "formula": "对比/争议性"
+    },
+    {
+      "rank": 5,
+      "title": "0 代码 0 安装，3 分钟配置 OpenClaw 帮你盯盘",
+      "author": "芝士芯",
+      "likes": 3202,
+      "type": "低门槛教程",
+      "formula": "极低门槛 + 高回报"
+    },
+    {
+      "rank": 6,
+      "title": "阿里云出了个龙虾套餐，每月 2.2T token",
+      "author": "karminski",
+      "likes": 2978,
+      "type": "资源推荐",
+      "formula": "具体数字 + 昵称"
+    },
+    {
+      "rank": 7,
+      "title": "太疯狂了!20 岁运营 20 个百万粉的自动化频道",
+      "author": "AI 统治世界计划",
+      "likes": 2438,
+      "type": "夸张数字",
+      "formula": "夸张数字 + 人设"
+    },
+    {
+      "rank": 8,
+      "title": "🔥打工人职场嘴替｜公司底层的自我证明",
+      "author": "智智学姐",
+      "likes": 2419,
+      "type": "职场人设",
+      "formula": "职场故事 + 身份认同"
+    },
+    {
+      "rank": 9,
+      "title": "AI 全自动就可以轻松超过 99% 努力的人",
+      "author": "旅行中的人类学家",
+      "likes": 2311,
+      "type": "AI 运营",
+      "formula": "对比 + 情绪"
+    },
+    {
+      "rank": 10,
+      "title": "OpenClaw 很强，但我现在不推荐你装了",
+      "author": "电波曲奇",
+      "likes": 2163,
+      "type": "反向劝退",
+      "formula": "反向劝退/争议性"
+    },
+    {
+      "rank": 11,
+      "title": "废物人类的 OpenClaw 机器人公司",
+      "author": "AgentOPC",
+      "likes": 2164,
+      "type": "自嘲第一人称",
+      "formula": "自嘲第一人称"
+    },
+    {
+      "rank": 12,
+      "title": "我把账号交给 AI 运营 1 周，结果让我破防❗️",
+      "author": "小猫说🐱",
+      "likes": 1932,
+      "type": "体验分享",
+      "formula": "体验分享 + 情绪词"
+    },
+    {
+      "rank": 13,
+      "title": "打造 CLAUDE CODE 无限自动流（真口袋军团）",
+      "author": "song of mute",
+      "likes": 1833,
+      "type": "技术流",
+      "formula": "技术流 + 夸张命名"
+    },
+    {
+      "rank": 14,
+      "title": "OpenClaw 之父！中年技术男的逆袭爽文天花板",
+      "author": "李李的 AI 实验室",
+      "likes": 1379,
+      "type": "人物故事",
+      "formula": "人物 IP+ 故事"
+    },
+    {
+      "rank": 15,
+      "title": "模板能卖 600 万属实厉害，我的认知还是差了些",
+      "author": "龙七",
+      "likes": 1449,
+      "type": "认知反差",
+      "formula": "认知反差 + 夸张数字"
+    },
+    {
+      "rank": 16,
+      "title": "别再问 Clawdbot 能用来干什么了！",
+      "author": "科技鱼很酷",
+      "likes": 1438,
+      "type": "反问式清单",
+      "formula": "反问式标题"
+    },
+    {
+      "rank": 17,
+      "title": "在公司偷偷当 AI 带路党，然后惊艳所有人",
+      "author": "量子矩阵",
+      "likes": 1429,
+      "type": "职场故事",
+      "formula": "职场故事 + 反转"
+    },
+    {
+      "rank": 18,
+      "title": "好像是一个刚通过图灵测试的机器人账号",
+      "author": "愛桃乐茜",
+      "likes": 1578,
+      "type": "好奇心",
+      "formula": "好奇心/悬念"
+    },
+    {
+      "rank": 19,
+      "title": "50 元平替！别再买 Mac mini 跑 OpenClaw 了😭",
+      "author": "纵横",
+      "likes": 1183,
+      "type": "成本对比",
+      "formula": "成本对比 + 情绪"
+    },
+    {
+      "rank": 20,
+      "title": "这下真的养不起我的 AI 们了…",
+      "author": "Momo",
+      "likes": 1011,
+      "type": "成本吐槽",
+      "formula": "成本吐槽 + 情绪"
+    }
+  ],
+  "lastUpdated": "2026-03-04T21:30:00+08:00",
+  "source": "20 轮心跳调研（首页推荐流）"
+}
