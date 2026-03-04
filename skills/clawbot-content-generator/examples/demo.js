@@ -9,7 +9,7 @@ const {
   getTitleFormulas,
   getQuotes,
   getMarketAnalysis
-} = require('./src/index');
+} = require('../src/index');
 
 console.log('🤖 ClawBot Content Generator Demo\n');
 
