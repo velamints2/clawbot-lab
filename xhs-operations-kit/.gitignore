@@ -1,0 +1,14 @@
+# 敏感信息
+*.json
+!package.json
+.env
+*.pyc
+__pycache__/
+
+# 用户数据
+content_assets/
+workspace/
+
+# 系统文件
+.DS_Store
+Thumbs.db
